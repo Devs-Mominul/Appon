@@ -1,0 +1,30 @@
+{
+  "name": "jQuery.CanvasLoader",
+  "version": "3.0.0",
+  "homepage": "https://github.com/orianda/jQuery.CanvasLoader",
+  "authors": [
+    "Orianda <orianda@paan.de>"
+  ],
+  "description": "jQuery wrapper for heartcodes CanvasLoader",
+  "main": "src/index.html",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "jQuery",
+    "heartcodes",
+    "CanvasLoader"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.1",
+    "CanvasLoader": "~0.9.1"
+  }
+}
